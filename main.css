@@ -70,9 +70,3 @@ input[type=button]:hover {
   }
 }
 
-@media screen and (min-width: 800px) {
-  body {
-    width: 100%;
-
-  }
-}
